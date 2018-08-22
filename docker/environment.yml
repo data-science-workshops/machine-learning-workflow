@@ -1,0 +1,17 @@
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - notebook
+  - jupyterlab
+  - pip:
+    - plotly
+    - graphviz==0.8.3
+    - pydotplus==2.0.2
+    - imbalanced-learn==0.3.3
