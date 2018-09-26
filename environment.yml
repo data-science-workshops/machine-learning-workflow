@@ -18,3 +18,5 @@ dependencies:
     - graphviz==0.8.3
     - pydotplus==2.0.2
     - imbalanced-learn==0.3.3
+    - sklearn-pandas==1.7.0
+    - cli-pipeline==1.5.215
